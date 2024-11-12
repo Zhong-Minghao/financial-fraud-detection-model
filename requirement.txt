@@ -1,0 +1,10 @@
+pandas
+numpy
+openai
+tqdm
+scikit-learn
+fuzzywuzzy
+matplotlib
+xgboost
+optuna
+scipy
