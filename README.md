@@ -22,7 +22,7 @@ Ensure that your environment supports PyTorch with GPU acceleration, as the mode
 
 ### 3.Data Requirement
 
-Due to confidentiality constraints, the /input folder is empty and should contain a file named "财务违规数据表" (Financial Violation Data Table) obtained from the [CSMAR](https://data.csmar.com/) database. You will also need access to the Wind database, with [paths](./main.py#L7) updated in the source code.
+Due to confidentiality constraints, the /input folder is empty and should contain a file named "财务违规数据表" (Financial Violation Data Table) obtained from the [CSMAR](https://data.csmar.com/) database. You will also need access to the Wind database, with [paths](./main.py#L27) updated in the source code.
 
 ### 4.Running the Model
 
