@@ -1,6 +1,6 @@
 # financial fraud detection model
 
-This repository contains a model for predicting financial statement fraud in the Chinese stock market, developed as part of my internship at China's security.
+This repository contains a model for predicting financial statement fraud in the Chinese stock market, developed as part of my internship at China's security. The model uses an ensemble learning approach, combining Logistic Regression, XGBoost, and MLP (Multi-Layer Perceptron) to improve prediction accuracy.
 
 ## Overview
 
